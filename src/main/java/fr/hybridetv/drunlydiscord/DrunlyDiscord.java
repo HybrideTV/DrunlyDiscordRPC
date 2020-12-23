@@ -40,7 +40,7 @@ public class DrunlyDiscord
   @SideOnly(Side.CLIENT)
   private void discordRPC() {
     DiscordRPC discord = DiscordRPC.INSTANCE;
-    String applicationId = "777197371875655700";
+    String applicationId = "SET YOUR BOT ID HERE";
     String steamId = "";
     
     DiscordEventHandlers handlers = new DiscordEventHandlers();
